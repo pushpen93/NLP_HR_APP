@@ -1,3 +1,8 @@
-import streamlit 
+import streamlit as st
 
-streamlit.title('Hi')
+def main():
+    st.title('Hi')
+
+if __name__ == "__main__":
+    main()
+
